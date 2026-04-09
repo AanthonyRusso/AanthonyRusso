@@ -4,7 +4,7 @@ I Anthony Russo, B.S. Computer Science student at Saint Louis University, but al
 - 🔭 I am currently working on numerous projects, such as a Mechatronics simulation for virtual reality.
 - 🌱 I'm currently learning about VR APIs, such as the OpenVR API.
 - 💬 Ask me about my passion project, a multiplayer game in the Godot game engine.
-- 📫 How to reach me: tonyrusso7604@gmail.com
+- 📫 How to reach me: anthonyrusso7604@gmail.com
 <!--
 **AanthonyRusso/AanthonyRusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
